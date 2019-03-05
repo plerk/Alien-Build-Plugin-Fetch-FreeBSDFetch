@@ -10,8 +10,14 @@ my %modules;
 my $post_diag;
 
 $modules{$_} = $_ for qw(
+  Alien::Build
+  Alien::Build::Plugin
+  Capture::Tiny
   ExtUtils::MakeMaker
+  File::Which
+  Path::Tiny
   Test2::V0
+  Test::Alien::Build
 );
 
 

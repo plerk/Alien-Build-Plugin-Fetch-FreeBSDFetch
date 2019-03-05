@@ -2,6 +2,16 @@
 
 Alien::Build plugin for FreeBSD's fetch
 
+# SYNOPSIS
+
+# DESCRIPTION
+
+# PROPERTIES
+
+## url
+
+## ssl
+
 # AUTHOR
 
 Graham Ollis <plicease@cpan.org>
