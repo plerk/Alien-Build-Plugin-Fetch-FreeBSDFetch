@@ -1,4 +1,4 @@
-# Alien::Build::Plugin::Fetch::FreeBSDFetch [![Build Status](https://secure.travis-ci.org/plicease/Alien-Build-Plugin-Fetch-FreeBSDFetch.png)](http://travis-ci.org/plicease/Alien-Build-Plugin-Fetch-FreeBSDFetch)
+# Alien::Build::Plugin::Fetch::FreeBSDFetch
 
 Alien::Build plugin for FreeBSD's fetch
 
