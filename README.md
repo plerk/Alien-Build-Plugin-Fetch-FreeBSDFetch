@@ -1,4 +1,4 @@
-# Alien::Build::Plugin::Fetch::FreeBSDFetch
+# Alien::Build::Plugin::Fetch::FreeBSDFetch [![Build Status](https://api.cirrus-ci.com/github/plicease/Alien-Build-Plugin-Fetch-FreeBSDFetch.svg)](https://cirrus-ci.com/github/plicease/Alien-Build-Plugin-Fetch-FreeBSDFetch)
 
 Alien::Build plugin for FreeBSD's fetch
 
